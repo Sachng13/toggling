@@ -1,0 +1,27 @@
+#box{
+    border: 2px solid black;
+    width:100px;
+    height: 20px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+#circle{
+    width: 20%;
+    background-color: black;
+    border-radius: 50%;
+    
+}
+#box2{
+    background-color:white;
+    width:100px;
+    height: 20px;
+    border-radius: 50px;
+    display: none;
+}
+#circle2{
+    width: 20%;
+    background-color: black;
+    border-radius: 50%;
+    cursor: pointer;
+    margin-left: 80%;
+}
